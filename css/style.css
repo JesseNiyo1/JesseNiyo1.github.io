@@ -12,3 +12,18 @@ body {
 	margin-left: 10px;
 	margin-right: 10px;
 }
+
+.navbar a:link {
+	text-decoration: none;
+}
+
+.navbar a:visited {
+	color: inherit;
+}
+
+.navbar a:hover {
+	background-color: rgb(12, 1, 3);
+	color:rgb(243, 249, 252);
+	width: 4%;
+	height: 4%
+}
